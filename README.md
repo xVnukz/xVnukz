@@ -6,7 +6,7 @@ src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=cle
 
 🛠️ Servers where I work 🛠️
 
-![Discord Banner 3](https://discord.com/api/guilds/872575317162729534/widget.png?style=banner2)
+![Discord Banner 3](https://discord.com/api/guilds/899834791321563156/widget.json)
 
 ---
 
