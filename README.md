@@ -1,5 +1,3 @@
-💻 Software Engenieer at [SaharaPvP](https://discord.gg/napb6DMQaR) 🏝️ Living in Venezuela 🇨🇴
-
 My discord
 
 img
@@ -35,4 +33,28 @@ src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=cle
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-Discord
+
+### Some databases that I have used
+
+![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql&logoColor=FFFFFF)
+![Mongo](https://img.shields.io/badge/-Mongo-yellowgreen?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-red?style=flat&logo=redis&logoColor=FFFFFF)
+
+### Programs that I have used the most
+
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+
+---
+
+### My stats
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dropead2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dropead2's Github Stats">
+</p>
+
+<br>
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropead2&show_icons=true&hide_border=true&theme=radical%22%3E
+</p>
