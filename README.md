@@ -1,4 +1,4 @@
-💻 Software Engenieer at [VeraxMC Network](https://discord.gg/napb6DMQaR) 🏝️ Living in Colombia 🇨🇴
+💻 Software Engenieer at [SaharaPvP](https://discord.gg/napb6DMQaR) 🏝️ Living in Venezuela 🇨🇴
 
 My discord
 
