@@ -50,11 +50,11 @@ src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=cle
 ### My stats
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dropead2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Dropead2's Github Stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xVnukz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="xVnukz's Github Stats">
 </p>
 
 <br>
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dropead2&show_icons=true&hide_border=true&theme=radical%22%3E
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xVnukz&show_icons=true&hide_border=true&theme=radical%22%3E
 </p>
