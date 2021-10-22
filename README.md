@@ -1,7 +1,6 @@
 My discord
 
-img src="https://discord-md-badge.vercel.app/api/shield/852680566577954828?theme=clean-inverted"
-<br>
+<img src="https://dcbadge.vercel.app/api/shield/852680566577954828" />
 
 🛠️ Servers where I work 🛠️
 
