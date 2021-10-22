@@ -42,7 +42,7 @@ src="https://discord-md-badge.vercel.app/api/shield/702936260880105482?theme=cle
 
 ### Programs that I have used the most
 
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=ffffff)
+![IntelliJ IDEA](http://img.shields.io/badge/-Eclipse%20IDEA-000000?style=flat&logo=Eclipse-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
 ---
