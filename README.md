@@ -4,7 +4,7 @@ My discord
 
 🛠️ Servers where I work 🛠️
 
-![Discord Banner 3](https://discord.com/api/guilds/899834791321563156/widget.png?style=banner2)
+![Discord Banner 3](https://discord.com/api/guilds/927883813105844224/widget.png?style=banner2)
 
 ---
 
