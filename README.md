@@ -35,7 +35,7 @@ My discord
 
 ### Programs that I have used the most
 
-![Eclipse IDEA](http://img.shields.io/badge/-Eclipse%20IDEA-000000?style=flat&logo=Eclipse-idea&logoColor=ffffff)
+![InteliIJ IDEA](http://img.shields.io/badge/-InteliIj%20IDEA-000000?style=flat&logo=InteliIJ-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
 
 ---
