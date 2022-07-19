@@ -27,7 +27,7 @@ My discord
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
-![HTML](https://img.shields.io/badge/-HTML-000000?style=flat&logo=html)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++)
 
 ### Some databases that I have used
 
